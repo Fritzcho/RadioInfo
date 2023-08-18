@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RadioInfo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RadioInfo_jar</output-path>
+    <root id="archive" name="RadioInfo.jar">
+      <element id="module-output" name="RadioInfo" />
+    </root>
+  </artifact>
+</component>
